@@ -39,7 +39,7 @@
 
 **SECCIÓN 1-2**
 
-**NOTACIÓN CIENTÍFICA**
+**Notación científica**
 
 ![image](1.png)
 
@@ -73,7 +73,7 @@
 
 **SECCÍON 1-4**
 
-**Converesiones de unidades métricas**
+**Conversiones de unidades métricas**
 
 ![image](27.png)
 
@@ -104,6 +104,16 @@
 ![image](2.13.png)
 
 ![image](https://user-images.githubusercontent.com/116835707/201766622-11ab672c-0a35-4df5-8ee9-f99fad103b2a.png)
+
+**SECCIÓN 2-4**
+
+**Fuentes de voltaje y de corriente**
+
+![image](https://user-images.githubusercontent.com/116835707/201767661-8822a4a8-e614-426e-9030-8d6ece315d55.png)
+
+![image](https://user-images.githubusercontent.com/116835707/201767723-625cb121-1835-4d30-afaf-b6a9f8b0fef6.png)
+
+
 
 
 
