@@ -13,18 +13,19 @@
 
 **1. OBJETIVOS**
 
-*
-
 **1.1  OBJETIVO GENERAL**
 
-*
+*Comprender y entender los circuitos electricos básicos , sus componentes, unidades y las diversas formas de notación de las mismas 
 
 **1.2  OBJETIVOS ESPECIFICOS**
 
-*  
-* 
-* 
-* 
+*Comprender y aprender a utilizar de manera adecuada la notación científica, notación de ingeniería y prefijos métricos. 
+
+*Comprender la importancia de utilizar los prefijos métricos y como estos nos ayudan.
+
+*Reconocer los riesgos eléctricos y conocer los diferentes procedimientos de seguridad.
+
+*Aprender a realizar mediciones de circuitos eléctricos básicos. 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **2. MARCO TEORICO**
