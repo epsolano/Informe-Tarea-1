@@ -1,4 +1,4 @@
-# UNIVERSIDAD DE LAS FUERZAS ARAMADAS "ESPE"
+# UNIVERSIDAD DE LAS FUERZAS ARMADAS "ESPE"
 ![image](https://user-images.githubusercontent.com/116772918/200762591-a164d8db-c02e-4269-8bb4-0bc4c810d79f.png)
 
 ***INFORME TAREA 1***
@@ -94,6 +94,14 @@
 **Voltaje, corriente y resisitencia**
 
 ![image](2.5.png)
+
+![image](2.7.png)
+
+![image](2.9.png)
+
+![image](2.11.png)
+
+![image](2.13.png)
 
 ![image](https://user-images.githubusercontent.com/116835707/201766622-11ab672c-0a35-4df5-8ee9-f99fad103b2a.png)
 
