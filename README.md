@@ -44,13 +44,7 @@
 
 **c)** 2000.000
 
-**3. Exprese cada uno de los nuúmeros siguientes en notación científica:**
-
-**a)** 8400
-
-**b)** 99.000
-
-**c)** 0.2*10^6
+![image]
 
 
 
