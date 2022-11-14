@@ -35,8 +35,22 @@
 **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 **SECCIIÓN 1-2**
 **NOTACIÓN CIENTÍFICA**
-**1.** Exprese cada uno de los números siguientes en notación científica:
 
+**1. Exprese cada uno de los números siguientes en notación científica:**
+
+**a)** 3000
+
+**b)** 75.000
+
+**c)** 2000.000
+
+**3. Exprese cada uno de los nuúmeros siguientes en notación científica:**
+
+**a)** 8400
+
+**b)** 99.000
+
+**c)** 0.2*10^6
 
 
 
