@@ -113,16 +113,37 @@
 
 ![image](https://user-images.githubusercontent.com/116835707/201767723-625cb121-1835-4d30-afaf-b6a9f8b0fef6.png)
 
+**SECCIÓN 2-5**
+
+**Resistores**
+
 ![image](https://user-images.githubusercontent.com/116835707/201767943-d56aaad6-e920-4431-bd54-222805f59c79.png)
 
 ![image](https://user-images.githubusercontent.com/116835707/201767977-99c56977-40aa-4b53-a800-3006adf4f92e.png)
 
 ![image](https://user-images.githubusercontent.com/116835707/201768029-28404c47-a01c-46d8-b622-e61b3c0b2690.png)
 
+![image](https://user-images.githubusercontent.com/116835707/201768450-65233f94-2b69-4e9a-ae0f-7c6f17815c4c.png)
 
+![image](https://user-images.githubusercontent.com/116835707/201768485-c06e9d32-bec6-418a-b3aa-ebad0b5b01c4.png)
 
+**SECCIÓN 2-6**
 
+**El circuito eléctrico**
 
+![image](https://user-images.githubusercontent.com/116835707/201768662-32fecde9-87eb-4a98-8f74-aa65de266bdf.png)
+
+![image](https://user-images.githubusercontent.com/116835707/201768725-2d386919-bd5d-434c-afc4-0297279d8e1e.png)
+
+![image](https://user-images.githubusercontent.com/116835707/201768826-99172b15-ecf2-452e-ab5b-aa7c6f51b551.png)
+
+**SECCIÓN 2-7**
+
+**Mediciones de circuito básicas**
+
+![image](https://user-images.githubusercontent.com/116835707/201769102-e58d795d-34c8-4d55-9a44-402ff90456ed.png)
+
+![image](https://user-images.githubusercontent.com/116835707/201769173-1f086338-fb10-4d9c-87cf-9a643176d7fe.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **4. VIDEO**
