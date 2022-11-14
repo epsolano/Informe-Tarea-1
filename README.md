@@ -147,7 +147,11 @@
 
 ![image](https://user-images.githubusercontent.com/116835707/201769425-9e2b155d-5717-4755-9fdc-66ebfe00829a.png)
 
-![image](https://user-images.githubusercontent.com/116835707/201769466-476513b0-d004-47ea-b1f2-6f0665040ca2.png)
+![image](https://user-images.githubusercontent.com/116835707/201769618-c2e446fa-7ab9-4dd6-981f-94ddd12d5da3.png)
+
+![image](https://user-images.githubusercontent.com/116835707/201769720-3caf9485-f5df-43a2-946f-125d603e6cda.png)
+
+![image](https://user-images.githubusercontent.com/116835707/201769827-d22ba35a-0a75-40b8-8343-2c660c01fec3.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **4. VIDEO**
