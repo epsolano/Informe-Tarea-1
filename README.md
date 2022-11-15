@@ -33,6 +33,10 @@
 ![image](https://user-images.githubusercontent.com/116835707/201983892-e85550b3-ac92-477b-9243-0e4c928a56a0.png)
 
 
+![image](https://user-images.githubusercontent.com/116835707/202003164-47648ceb-937a-4054-b2d0-4a6da205f4af.png)
+
+
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
