@@ -242,8 +242,10 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **6. CONCLUSIONES**
 
-
-
+* Los prefijos métricos al igual que la notacion científica y notación de ingeniería nos sirve para representa números muy grandes y muy pequeños,la notación de ingeniería se usa representar valores de voltaje corriente, potencia,etc, y van acompañados por los prefijos métricos, mientras que la notación científica solo se usa para la represesentacion de valores muy altos o muy pequeño.
+* El trabajar con corriente electrica sino se toman las debidas preecauciones de seguridad puede traer consecuencias fatales como la muerte.
+* Se obtuvieron varias formulas necesarias para poder clacular voltaje,intesidad, resistecia, conductancia, carga , etc.
+* Es necesario e importante saber leer la resistencia (saber la resistencia que puede soportar un resistor). 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **7. BIBLIOGRAFÍA**
