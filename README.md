@@ -117,7 +117,11 @@
 
 ![image](2.1.png)
 
+![image](https://user-images.githubusercontent.com/116835707/201826919-f0383682-0dbb-402f-b5f2-3377da552835.png)
+
 ![image](2.3.png)
+
+![image](https://user-images.githubusercontent.com/116835707/201827020-5b29062c-4e2c-4891-b83e-231266c13f2f.png)
 
 **SECCIÓN 2-3**
 
@@ -125,7 +129,11 @@
 
 ![image](2.5.png)
 
+![image](https://user-images.githubusercontent.com/116835707/201827173-51c49ee6-f592-4288-86a7-716ec0b941fe.png)
+
 ![image](2.7.png)
+
+![image](https://user-images.githubusercontent.com/116835707/201827246-bb553fe9-1bcf-4157-b30d-fe8f9d5431b1.png)
 
 ![image](2.9.png)
 
