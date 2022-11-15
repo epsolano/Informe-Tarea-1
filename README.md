@@ -177,11 +177,16 @@
 
 ![image](https://user-images.githubusercontent.com/116835707/201768029-28404c47-a01c-46d8-b622-e61b3c0b2690.png)
 
-
+![image](https://user-images.githubusercontent.com/116835707/201828111-76a7c26c-34f7-4049-bdd0-bc65c052cf55.png)
 
 ![image](https://user-images.githubusercontent.com/116835707/201768450-65233f94-2b69-4e9a-ae0f-7c6f17815c4c.png)
 
+![image](https://user-images.githubusercontent.com/116835707/201828219-312f995a-6f9a-484b-86d4-ac6da046d718.png)
+
 ![image](https://user-images.githubusercontent.com/116835707/201768485-c06e9d32-bec6-418a-b3aa-ebad0b5b01c4.png)
+
+![image](https://user-images.githubusercontent.com/116835707/201828300-160d539a-c9e0-4246-aa02-c269c80f6fa9.png)
+
 
 **SECCIÓN 2-6**
 
