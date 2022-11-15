@@ -194,9 +194,15 @@
 
 ![image](https://user-images.githubusercontent.com/116835707/201768662-32fecde9-87eb-4a98-8f74-aa65de266bdf.png)
 
+![image](https://user-images.githubusercontent.com/116835707/201834350-716a9924-4006-45e0-8167-76449d7cc513.png)
+
 ![image](https://user-images.githubusercontent.com/116835707/201768725-2d386919-bd5d-434c-afc4-0297279d8e1e.png)
 
+![image](https://user-images.githubusercontent.com/116835707/201834448-292f7ce8-5ef3-4278-a21f-a0db6d9670f0.png)
+
 ![image](https://user-images.githubusercontent.com/116835707/201768826-99172b15-ecf2-452e-ab5b-aa7c6f51b551.png)
+
+![image](https://user-images.githubusercontent.com/116835707/201834513-76fa4769-8dcd-4a94-a809-9720cb843f48.png)
 
 **SECCIÓN 2-7**
 
@@ -204,15 +210,29 @@
 
 ![image](https://user-images.githubusercontent.com/116835707/201769102-e58d795d-34c8-4d55-9a44-402ff90456ed.png)
 
+![image](https://user-images.githubusercontent.com/116835707/201834585-3d8ab01e-4cd6-4893-b783-1ede13102147.png)
+
 ![image](https://user-images.githubusercontent.com/116835707/201769173-1f086338-fb10-4d9c-87cf-9a643176d7fe.png)
+![image](https://user-images.githubusercontent.com/116835707/201831265-4a8c62ce-98ae-462a-b86f-d92ad61d1b95.png)
+
+![image](https://user-images.githubusercontent.com/116835707/201834655-a6957551-2d90-4743-b93b-1309c3c8ae8a.png)
 
 ![image](https://user-images.githubusercontent.com/116835707/201769425-9e2b155d-5717-4755-9fdc-66ebfe00829a.png)
+![image](https://user-images.githubusercontent.com/116835707/201831483-8a4f9a48-e68f-44d4-ab7a-c3199b40a766.png)
+
+![image](https://user-images.githubusercontent.com/116835707/201834742-4cea080d-d3a3-4f48-855c-a3403fd52f40.png)
 
 ![image](https://user-images.githubusercontent.com/116835707/201769618-c2e446fa-7ab9-4dd6-981f-94ddd12d5da3.png)
 
+250V
+
 ![image](https://user-images.githubusercontent.com/116835707/201769720-3caf9485-f5df-43a2-946f-125d603e6cda.png)
 
+![image](https://user-images.githubusercontent.com/116835707/201834867-9c6163e6-633a-4fad-932e-cd20b7ff34c8.png)
+
 ![image](https://user-images.githubusercontent.com/116835707/201769827-d22ba35a-0a75-40b8-8343-2c660c01fec3.png)
+
+![image](https://user-images.githubusercontent.com/116835707/201834950-c26e6a0b-66b2-4d35-ac98-04b9ff323363.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **4. VIDEO**
