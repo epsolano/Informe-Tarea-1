@@ -246,6 +246,7 @@
 * El trabajar con corriente electrica sino se toman las debidas preecauciones de seguridad puede traer consecuencias fatales como la muerte.
 * Se obtuvieron varias formulas necesarias para poder clacular voltaje,intesidad, resistecia, conductancia, carga , etc.
 * Es necesario e importante saber leer la resistencia (saber la resistencia que puede soportar un resistor). 
+* Es importante poner las unidades de medición a lado del resutado obtenido, para evitar confusiones, por lo general se usa el SI (Sistema Internacional).
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **7. BIBLIOGRAFÍA**
